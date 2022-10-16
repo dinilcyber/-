@@ -36,17 +36,17 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94711421243'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
+global.vcardowner = ['94770701629'] //ur owner number
+global.ownername = "𓄂᳆⃞ʀⷮᴇⷩᴀⷷʟ亗𝙳𝙸𝙽𝙸𝙻࿐" //ur owner name
 global.ytname = "YT: TGM Arcade" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94711421243']
-global.ownertag = '94711421243' //ur tag number
-global.botnumber = '94764679736' //Add your Bot Number For Log
-global.botname = 'CYBER-X BETA EDITION' //ur bot name
+global.owner = ['94770701629']
+global.ownertag = '94770701629' //ur tag number
+global.botnumber = '94770701629' //Add your Bot Number For Log
+global.botname = '𓄂ʀⷮᴇⷩᴀⷷʟᶜʸᵇᵉʳ𝙭ᴹᴰ ᴮᴼᵀ࿐' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
@@ -56,11 +56,18 @@ global.themeemoji = "📩" //ur theme emoji
 global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
 global.author = "DARK ALPHA" //ur sticker watermark author
 global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
-global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
+global.aliveimg ="https://ibb.co/qmnt4Pf"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
 global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
+global.alivemsg = "🪀👻𝙸 𝙰𝙼 𝙰𝙻𝙸𝚅𝙴 𝙽𝙾𝚆👻🪀
+
+
+📌අපි සද්ද වහල ඉන්න නිසා😑ගොඩක් අය රගමඩලෙ චරිත වෙලා🤟🤙
+🔖𓄂ʀⷮᴇⷩᴀⷷʟᴰᴬᴿᴷ𝙉𝙀𝙍𝙊࿐
+🔖𓄂᳆⃞ʀⷮᴇⷩᴀⷷʟ亗𝙳𝙸𝙽𝙸𝙻ᴹᴰ-ᴮᴼᵀ࿐
+🔖𓄂𝙾𝚆𝙽𝙴𝚁 𝙽𝙰𝙼𝙴-𓄂᳆⃞ʀⷮᴇⷩᴀⷷʟ亗𝙳𝙸𝙽𝙸𝙻࿐
+🔖𓄂𝙲𝙾𝙽𝚃𝙰𝙲𝚃-0770701629\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
